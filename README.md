@@ -1,4 +1,4 @@
-# Motion-Detector-Program
+# Motion-Detector-Program (Portfolio Project)
 Motion Detector Program w/Bokeh Time Series graph
 
 This project is essentially a Webcam/Motion capture program designed to measure the times that anything enters the camera's field of view, and plots the times on an interactive Bokeh Time Series plot.
